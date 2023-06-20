@@ -1,0 +1,6 @@
+framework module Pods_myboost {
+  umbrella header "Pods-myboost-umbrella.h"
+
+  export *
+  module * { export * }
+}
